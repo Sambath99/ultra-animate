@@ -1,0 +1,12 @@
+{
+  "title": "ultra-animate demo", "w": 1080, "h": 1920, "intro": true,
+  "segments": [
+    { "style": "stat-chart", "dur": 5, "theme": "noir", "props": { "kicker": "Your Place", "label": "Students trained", "prefix": "", "unit": "+", "from": 0, "to": 1200, "decimals": 0, "series": [20,30,45,60,90,130,200,320,480,700,900,1200], "xlabels": ["2021","2022","2023","2024","2025","2026"], "marks": [{ "i": 8, "text": "AI classes", "sub": "2025" }], "footnote": "illustrative numbers" } },
+    { "style": "map-route", "dur": 5, "theme": "mono", "props": { "title": "Route to Your Place", "dist": "4.2 km", "dest": "Your Place" } },
+    { "style": "headline", "dur": 5, "theme": "ivory", "props": { "paper": "The Daily Ledger", "head": "A small shop automated its orders. Margins doubled.", "highlights": ["support costs had fallen 58 percent", "twice the volume"] } },
+    { "style": "ink-wash", "dur": 5, "theme": "ivory", "props": { "text": "The river keeps no name", "seal": "道" } },
+    { "style": "teardown", "dur": 5, "theme": "noir" },
+    { "style": "paper-desk", "dur": 5, "theme": "forest", "props": { "title": "Most viewers decide in the first three seconds", "circleAt": 2, "pen": "the hook", "sticky": "THE HOOK" } }
+  ],
+  "end": { "type": "grid", "title": "Animation Styles", "sub": "made with ultra-animate", "cta": "Comment “ANIMATE”", "cta2": "for every style’s prompt" }
+}
